@@ -1,1 +1,2 @@
-detta är en text med lite anann text. 
+detta är en text med lite annan text.
+Lägger till en extra rad
